@@ -13,18 +13,18 @@ Welcome to my repository of **Flutter mini projects**! This collection includes 
 
 | Project Name      | Description                                             |
 |-------------------|---------------------------------------------------------|
-| [`bitcoin`](https://github.com/EvanBinu/Flutter-Projects/tree/main/bitcoin)         | A simple app to show real-time Bitcoin price using API. |
-| [`bmi`](https://github.com/EvanBinu/Flutter-Projects/tree/main/bmi)           | BMI Calculator app with clean UI and input logic.       |
-| [`clima`](https://github.com/EvanBinu/Flutter-Projects/tree/main/clima)          | Weather app fetching live data based on location.       |
-| [`destini`](https://github.com/EvanBinu/Flutter-Projects/tree/main/destini)      | A choose-your-own-adventure style storytelling app.     |
-| [`dice`](https://github.com/EvanBinu/Flutter-Projects/tree/main/dice)           | A digital dice roller app with animations.              |
-| [`flash_chat`](https://github.com/EvanBinu/Flutter-Projects/tree/main/flash_chat)      | A real-time chat app using Firebase authentication.     |
-| [`i_am_rich`](https://github.com/EvanBinu/Flutter-Projects/tree/main/i_am_rich)      | A fun app that just shows "I am rich" – for laughs!     |
-| [`magic_8_ball`](https://github.com/EvanBinu/Flutter-Projects/tree/main/magic_8_ball)    | A prediction app inspired by the magic 8-ball toy.      |
-| [`mi_card_flutter`](https://github.com/EvanBinu/Flutter-Projects/tree/main/mi_card_flutter) | A digital business card app with personal info.         |
-| [`quiz`](https://github.com/EvanBinu/Flutter-Projects/tree/main/quiz)           | A quiz game app with questions and score tracking.      |
-| [`xylophone`](https://github.com/EvanBinu/Flutter-Projects/tree/main/xylophone)     | A musical app where each button plays a different note. |
-|[`To_Do_List`](https://github.com/EvanBinu/To-Do-List-App)| A clean and user-friendly app to add, delete, and check off daily tasks.|
+| [bitcoin](https://github.com/EvanBinu/Flutter-Projects/tree/main/bitcoin)         | A simple app to show real-time Bitcoin price using API. |
+| [bmi](https://github.com/EvanBinu/Flutter-Projects/tree/main/bmi)           | BMI Calculator app with clean UI and input logic.       |
+| [clima](https://github.com/EvanBinu/Flutter-Projects/tree/main/clima)          | Weather app fetching live data based on location.       |
+| [destini](https://github.com/EvanBinu/Flutter-Projects/tree/main/destini)      | A choose-your-own-adventure style storytelling app.     |
+| [dice](https://github.com/EvanBinu/Flutter-Projects/tree/main/dice)           | A digital dice roller app with animations.              |
+| [flash_chat](https://github.com/EvanBinu/Flutter-Projects/tree/main/flash_chat)      | A real-time chat app using Firebase authentication.     |
+| [i_am_rich](https://github.com/EvanBinu/Flutter-Projects/tree/main/i_am_rich)      | A fun app that just shows "I am rich" – for laughs!     |
+| [magic_8_ball](https://github.com/EvanBinu/Flutter-Projects/tree/main/magic_8_ball)    | A prediction app inspired by the magic 8-ball toy.      |
+| [mi_card_flutter](https://github.com/EvanBinu/Flutter-Projects/tree/main/mi_card_flutter) | A digital business card app with personal info.         |
+| [quiz](https://github.com/EvanBinu/Flutter-Projects/tree/main/quiz)           | A quiz game app with questions and score tracking.      |
+| [xylophone](https://github.com/EvanBinu/Flutter-Projects/tree/main/xylophone)     | A musical app where each button plays a different note. |
+|[To_Do_List](https://github.com/EvanBinu/To-Do-List-App)| A clean and user-friendly app to add, delete, and check off daily tasks.|
 ---
 
 ## 🔧 Getting Started
